@@ -1,6 +1,6 @@
-# NLFS — Nikita Learn Spanish (prototype)
+# NLS — Nikita Learn Spanish (prototype)
 
-NLFS is a website I'm building for myself to learn Spanish, using AI tools such as Claude Code and Google Stitch.
+NLS is a website I'm building for myself to learn Spanish, using AI tools such as Claude Code and Google Stitch.
 
 Design specs and implementation plans live in `docs/`.
 
